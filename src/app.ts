@@ -1,1 +1,1 @@
-console.log("Subscribe Now")
+console.log('Subscribe Now')
